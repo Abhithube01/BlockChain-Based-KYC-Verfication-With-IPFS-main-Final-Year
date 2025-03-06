@@ -19,11 +19,11 @@ This project aims to create a secure and decentralized system for document verif
 ## Installation
 
 1. Clone this repository: 
-   ``https://github.com/DevAloshe/BlockChain-Based-Document-Verfication-With-IPFS.git``
+   ``https://github.com/Abhithube01/BlockChain-Based-KYC-Verfication-With-IPFS-main-Final-Year``
 
 
 2. Install the required packages:
-  ``cd BlockChain-Based-Document-Verfication-With-IPFS``
+  ``cd BlockChain-Based-KYC-Verfication-With-IPFS``
   `` npm install``
 
 4. deploy the contract.sol using remixe online ide
@@ -42,9 +42,6 @@ This project aims to create a secure and decentralized system for document verif
 
 4. The system will display a message indicating whether the document is authentic or not.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
 - Metamask documentation
