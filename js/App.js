@@ -1,7 +1,7 @@
 //Your IPFS api key in ifura.io
-const projectId = "28LuNAotbXzcvtpOcE9F8ayKOeP";
+const projectId = "";
 //Your api secret in ifura.io
-const projectSecret = "3de3d9c099c6c0c168e39b8bc03e2f7a";
+const projectSecret = "";
 window.CONTRACT = {
   address: "0xbc5C724b49339bE15261a89654342D664BD04fDd",
   network: "Example : https://polygon-rpc.com/",
