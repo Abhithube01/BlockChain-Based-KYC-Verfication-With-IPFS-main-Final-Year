@@ -3,7 +3,7 @@ const projectId = "28LuNAotbXzcvtpOcE9F8ayKOeP";
 //Your api secret in ifura.io
 const projectSecret = "3de3d9c099c6c0c168e39b8bc03e2f7a";
 window.CONTRACT = {
-  address: "0xdEFfF1e5608ECFF87580bA75e6668aD41275CF5C",
+  address: "0xbc5C724b49339bE15261a89654342D664BD04fDd",
   network: "Example : https://polygon-rpc.com/",
   explore: "Example : https://polygonscan.com/",
   // Your Contract ABI
